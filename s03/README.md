@@ -1,4 +1,4 @@
-***TIC TAC TOE***
+**OBJECT ORIENTED PROGRAMMAMING WEEK**
 
-A simple ruby Tic Tac Toe game, run "ruby App.rb" in terminal to play.
-This is a ruby object oriented programming project
+During this week, we learn how to make Object Oriented Ruby programming and how to organise our code
+following the MVC standard.
